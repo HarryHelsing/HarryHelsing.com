@@ -5,5 +5,5 @@ To run the Yew test
 - Run in terminal: cargo new `project name here`
 - Replace Cargo.toml and main.rs with files in here
 - Run: cargo install trunk
-- Run: trunk server
+- Run: trunk serve
 - Go to link that appears in terminal
