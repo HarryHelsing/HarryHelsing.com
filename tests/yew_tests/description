@@ -1,0 +1,9 @@
+Testing out how to use the Yew framework for creating websites with Rust
+
+To run the Yew test
+- Install Rust
+- Run in terminal: cargo new `project name here`
+- Replace Cargo.toml and main.rs with files in here
+- Run: cargo install trunk
+- Run: trunk server
+- Go to link that appears in terminal
