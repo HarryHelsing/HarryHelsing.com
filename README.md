@@ -1,5 +1,5 @@
 # HarryHelsing.com
-An attempt at building my own website, mostly for the experience of learning HTML and CSS
+An attempt at building my own website, mostly for the experience of learning HTML and CSS (attempted Rust + WASM/Yew for dynamic features)
 
 An eclectic website to cover my art, coding, spirituality and writing.  
 ## To-do
